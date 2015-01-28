@@ -8,6 +8,7 @@ A guide for terms and concepts that are helpful to know for programmers.
 - [compiler](#compiler)
 - [memory](#memory)
 - [program](#program)
+- [ram](#ram)
 
 ### application
 A program (or group of programs) designed for the end user.
@@ -23,3 +24,6 @@ An internal storage area in the computer.
 
 ### program
 A sequence of instructions to perform a specified task.
+
+### ram
+A type of computer memory that can be accessed randomly.
