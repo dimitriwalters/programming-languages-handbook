@@ -5,10 +5,10 @@ A guide for terms and concepts that are helpful to know for programmers.
 ## Table of Contents
 - [General](#general)
   - [application](#application)
+  - [buffer](#buffer)
   - [compiler](#compiler)
   - [program](#program)
 - [Hardware](#hardware)
-  - [buffer](#buffer)
   - [memory](#memory)
   - [ram](#ram)
 
@@ -17,6 +17,9 @@ A guide for terms and concepts that are helpful to know for programmers.
 ### application
 A program (or group of programs) designed for the end user.
 
+### buffer
+A temporary storage area.
+
 ### compiler
 A program that translates source code into machine code.
 
@@ -24,9 +27,6 @@ A program that translates source code into machine code.
 A sequence of instructions to perform a specified task.
 
 ## Hardware
-
-### buffer
-A temporary storage area.
 
 ### memory
 An internal storage area in the computer.
