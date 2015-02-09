@@ -8,6 +8,7 @@ A guide for terms and concepts that are helpful to know for programmers.
   - [program](#program)
 - [Hardware](#hardware)
   - [buffer](#buffer)
+  - [cache](#cache)
   - [memory](#memory)
   - [ram](#ram)
 - [Tools](#tools)
@@ -25,6 +26,9 @@ A sequence of instructions to perform a specified task.
 
 ### buffer
 A temporary storage area.
+
+### cache
+A component that stores data so that future requests for that data can be served faster.
 
 ### memory
 An internal storage area in the computer.
