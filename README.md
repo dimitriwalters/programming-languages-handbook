@@ -6,7 +6,7 @@ A guide for terms and concepts that are helpful to know for programmers.
 - [General](#general)
   - [application](#application)
   - [program](#program)
-- [Hardware](#hardware)
+- [Architecture](#architecture)
   - [buffer](#buffer)
   - [cache](#cache)
   - [memory](#memory)
@@ -22,7 +22,7 @@ A program (or group of programs) designed for the end user.
 ### program
 A sequence of instructions to perform a specified task.
 
-## Hardware
+## Architecture
 
 ### buffer
 A temporary storage area.
