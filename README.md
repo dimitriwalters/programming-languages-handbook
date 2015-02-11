@@ -13,6 +13,7 @@ A guide for terms and concepts that are helpful to know for programmers.
   - [ram](#ram)
 - [Tools](#tools)
   - [compiler](#compiler)
+  - [IDE](#IDE)
 
 ## General
 
@@ -40,3 +41,6 @@ A type of computer memory that can be accessed randomly.
 
 ### compiler
 A program that translates source code into machine code.
+
+### IDE
+A software application that provides comprehensive facilities to programmers for development.
