@@ -13,7 +13,7 @@ A guide for terms and concepts that are helpful to know for programmers.
   - [ram](#ram)
 - [Tools](#tools)
   - [compiler](#compiler)
-  - [IDE](#IDE)
+  - [IDE](#ide)
 
 ## General
 
