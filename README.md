@@ -7,6 +7,7 @@ A guide for terms and concepts that are helpful to know for programmers.
   - [application](#application)
   - [program](#program)
 - [Coding](#coding)
+  - [constant](#constant)
   - [variable](#variable)
 - [Architecture](#architecture)
   - [buffer](#buffer)
@@ -26,6 +27,9 @@ A program (or group of programs) designed for the end user.
 A sequence of instructions to perform a specified task.
 
 ## Coding
+
+### constant
+A symbolic name associated with a value, and whose associated value cannot change.
 
 ### variable
 A symbolic name associated with a value, and whose associated value can change.
