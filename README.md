@@ -8,6 +8,7 @@ A guide for terms and concepts that are helpful to know for programmers.
   - [program](#program)
 - [Coding](#coding)
   - [constant](#constant)
+  - [function](#function)
   - [variable](#variable)
 - [Architecture](#architecture)
   - [buffer](#buffer)
@@ -30,6 +31,9 @@ A sequence of instructions to perform a specified task.
 
 ### constant
 A symbolic name associated with a value, and whose associated value cannot change.
+
+### function
+A named section of a program that performs a specific task.
 
 ### variable
 A symbolic name associated with a value, and whose associated value can change.
