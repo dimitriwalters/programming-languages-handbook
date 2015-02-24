@@ -10,11 +10,6 @@ A guide for terms and concepts that are helpful to know for programmers.
   - [constant](#constant)
   - [function](#function)
   - [variable](#variable)
-- [Architecture](#architecture)
-  - [buffer](#buffer)
-  - [cache](#cache)
-  - [memory](#memory)
-  - [ram](#ram)
 - [Tools](#tools)
   - [compiler](#compiler)
   - [IDE](#ide)
@@ -37,20 +32,6 @@ A named section of a program that performs a specific task.
 
 ### variable
 A symbolic name associated with a value, and whose associated value can change.
-
-## Architecture
-
-### buffer
-A temporary storage area.
-
-### cache
-A component that stores data so that future requests for that data can be served faster.
-
-### memory
-An internal storage area in the computer.
-
-### ram
-A type of computer memory that can be accessed randomly.
 
 ## Tools
 
