@@ -1,6 +1,6 @@
-# programming-handbook
+# programming-languages-handbook
 
-A guide for terms and concepts that are helpful to know for programmers.
+A list of important programming language concepts.
 
 ## Table of Contents
 - [General](#general)
