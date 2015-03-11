@@ -9,6 +9,7 @@ A list of important programming language concepts.
 - [Coding](#coding)
   - [constant](#constant)
   - [function](#function)
+  - [string](#string)
   - [variable](#variable)
 - [Tools](#tools)
   - [compiler](#compiler)
@@ -29,6 +30,9 @@ A symbolic name associated with a value, and whose associated value cannot chang
 
 ### function
 A named section of a program that performs a specific task.
+
+### string
+A sequence of characters.
 
 ### variable
 A symbolic name associated with a value, and whose associated value can change.
