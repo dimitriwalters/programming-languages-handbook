@@ -49,6 +49,6 @@ A software application that provides comprehensive facilities to programmers for
 ## Other Handbooks
 
 The following handbooks are dedicated to specific programming languages/paradigms:
-- [javascript-handbook](https://github.com/dimitriwalters/javascript-handbook)
+- [javascript handbook](https://github.com/dimitriwalters/javascript-handbook)
 - [c handbook](https://github.com/dimitriwalters/c-handbook)
 - [functional programming handbook](https://github.com/dimitriwalters/fp-handbook)
