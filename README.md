@@ -14,6 +14,7 @@ A list of important programming language concepts.
 - [Tools](#tools)
   - [compiler](#compiler)
   - [IDE](#ide)
+- [Other Handbooks](#other-handbooks)
 
 ## General
 
@@ -44,3 +45,10 @@ A program that translates source code into machine code.
 
 ### IDE
 A software application that provides comprehensive facilities to programmers for development.
+
+## Other Handbooks
+
+The following handbooks are dedicated to specific programming languages/paradigms:
+- [javascript-handbook](https://github.com/dimitriwalters/javascript-handbook)
+- [c handbook](https://github.com/dimitriwalters/c-handbook)
+- [functional programming handbook](https://github.com/dimitriwalters/fp-handbook)
